@@ -1,3 +1,6 @@
+To run the project, first, clone the repository from GitHub and navigate to the project directory. Then, install all necessary dependencies using npm install. Once the dependencies are installed, start the development server with npm run dev, which will launch the application in the browser. The project is built using React and requires several dependencies, including React Router DOM for navigation, Axios for handling API requests, and Bootstrap for styling and responsiveness. These dependencies were installed using npm with the following command: npm install react-router-dom axios bootstrap.
+
+About:
 Employwise is a React-based user management system that integrates with the Reqres API to provide essential user management functionalities. This application allows users to log in, view a paginated list of users, edit user details, and delete users. The project is designed to be user-friendly, responsive, and efficient, making use of React hooks, React Router, and Bootstrap for styling.
  Features
 User Authentication:
